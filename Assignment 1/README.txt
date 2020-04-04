@@ -1,6 +1,7 @@
 TOTAL GRADE EARNED: 96/100
 Reason: Comments missing from methods
 
+Description:
 This project is to create the abstract data type (ADT) for a polynomial called Poly. 
 
 Implement  the  internal  representation  of  a  polynomial  (nonnegative  exponents)  as  an  array  of  terms.  
