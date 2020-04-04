@@ -1,3 +1,4 @@
+# CSS343
 Author: Ben Khabazan
 
 This repository includes all projects worked on and created during the course of CSS343 in the University of Washington. 
